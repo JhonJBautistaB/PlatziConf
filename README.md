@@ -13,6 +13,7 @@ Diseño de Landing Page en Bootstrap donde aplico los conocimientos y habilidade
 
 ![singlePage](/img/print_web.png)
 
+[Ver Single Page](https://platzi-conf-hawai.vercel.app/)
 
 
 ## Redes Sociales
