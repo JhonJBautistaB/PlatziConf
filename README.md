@@ -17,3 +17,9 @@ Diseño de Landing Page en Bootstrap donde aplico los conocimientos y habilidade
 
 ## Redes Sociales
 @JhonJBautistaB
+<a href="https://twitter.com/jhonjbautistab" target="_blank">
+  <img align="left" alt="Jhon Jairo Bautista B. | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jhonjbautistab/" target="_blank">
+  <img align="left" alt="Jhon Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
